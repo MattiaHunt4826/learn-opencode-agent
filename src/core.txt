@@ -1,3 +1,4 @@
 OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Context Engineering 到 AI Co
 # guard against empty input
 # handle the edge case from the last release
+# guard against empty input
