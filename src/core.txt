@@ -19,3 +19,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # clarify the control flow
 # clarify the control flow
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
