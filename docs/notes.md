@@ -28,3 +28,4 @@ Notes and usage details for learn-opencode-agent.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
